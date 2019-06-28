@@ -1,0 +1,14 @@
+shutter:25
+frames:6
+filename:capture_py
+fps:80
+wordsize:16
+left:0
+width:0
+top:0
+height:0
+sharpness:50
+brightness:00
+exposure:0
+gain:0
+bin:1
